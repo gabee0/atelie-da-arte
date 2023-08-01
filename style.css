@@ -3,8 +3,13 @@ body { background-color: rgb(255, 218, 187);}
 img {width: 500px;}
 
 header {
-
+     /*cor de fundo*/
     background-color: rgb(139, 37, 19);
+
+    /*cor do texto*/
+    color: coral;
+    
+    text-align: center;
 
 
 }
