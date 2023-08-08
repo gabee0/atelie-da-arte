@@ -28,10 +28,13 @@ E.conteiner {
 E.texto {
 flex: 1;
 padding: 15%;
-
-
-
-
 }
 
+
+E.imglink {
+
+flex: 2;
+text-align: center;
+
+}
 
