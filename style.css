@@ -13,5 +13,20 @@ header, footer {
     text-align: center;
     padding: 20px;
 
+}
+
+
+
+E.conteiner {
+
+    display: flex;
+    border-style: solid;
+    border-color: darkolivegreen;
+
+
+
+
 
 }
+
+
