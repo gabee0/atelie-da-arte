@@ -23,6 +23,11 @@ E.conteiner {
     border-style: solid;
     border-color: darkolivegreen;
 
+}
+
+E.texto {
+flex: 1;
+padding: 15%;
 
 
 
