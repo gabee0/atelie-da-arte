@@ -17,7 +17,7 @@ header, footer {
 
 
 
-E.conteiner {
+.conteiner {
 
     display: flex;
     border-style: solid;
@@ -25,17 +25,200 @@ E.conteiner {
 
 }
 
-E.texto {
+.texto {
 flex: 1;
 padding: 15%;
 }
 
 
-E.imglink {
+.imglink {
 
 flex: 2;
 text-align: center;
+display: flex;
+justify-content: center;
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
