@@ -37,5 +37,6 @@ transition: background-color 0.3s;
 
 
 }
- ficamos de copiar essa ultima parte na prox aula
-input[type="submit"] 
+ 
+input[type="submit"]: :hover 
+{ background-color: radialGradient #00b321 to #000 }
