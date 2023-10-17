@@ -39,4 +39,4 @@ transition: background-color 0.3s;
 }
  
 input[type="submit"]: :hover 
-{ background-color: radialGradient #00b321 to #000 }
+{ background-color: radialGradient #00b321}
