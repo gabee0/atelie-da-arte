@@ -51,3 +51,13 @@ width: 90vw;
     margin:0;
     opacity: 0;
 }
+
+.painel.active {
+    flex: 5;
+}
+
+.painel.active {
+opacity: 1;
+transition: opacity 0.3s ease-in 0.4s;
+
+}
