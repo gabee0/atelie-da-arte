@@ -34,4 +34,5 @@ width: 90vw;
     border-radius: 50px;
     color: cornsilk;
     cursor: pointer;
+    flex: 0.5;
 }
